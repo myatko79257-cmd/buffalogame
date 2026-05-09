@@ -1,0 +1,9 @@
+{
+  "appId": "com.buffalogame.game",
+  "appName": "ကျွဲဂိမ်းapp",
+  "webDir": "www",
+  "server": {
+    "url": "https://comfy-blini-22afe3.netlify.app/",
+    "cleartext": true
+  }
+}
